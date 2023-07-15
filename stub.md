@@ -1,4 +1,3 @@
-
 ---
 system_prompt: foobar
 model: gpt-4
