@@ -1,4 +1,4 @@
-# CRUD generator for NestJS and TypeORM
+# CRUD generator for FastAPI
 
 
 In this example, we will create a CRUD generator for FastAPI.
