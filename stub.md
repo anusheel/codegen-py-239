@@ -4,9 +4,10 @@
 In this example, we will create a CRUD generator for FastAPI.
 
 ```stub
-Completely running codebase to show how To return a response with HTML directly from FastAPI
+Create a NextJS app with App router. There are 2 screens in the app
+The home page shows a list of spacex satellite launches. Clicking on any launch takes you to the launch page detail.
 ```
 
 ```stub
-Generate tests
+Use tailwind to make the pages look nice
 ```
