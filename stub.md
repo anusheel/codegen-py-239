@@ -1,8 +1,4 @@
----
-system_prompt: foobar
-model: gpt-4
-temperature: 0
----
+
 
 # CRUD generator for FastAPI
 
@@ -17,3 +13,9 @@ The home page shows a list of spacex satellite launches. Clicking on any launch 
 ```stub
 Use tailwind to make the pages look nice
 ```
+
+---
+system_prompt: foobar
+model: gpt-4
+temperature: 0
+---
