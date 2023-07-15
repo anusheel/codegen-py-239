@@ -1,3 +1,9 @@
+---
+system_prompt: foobar
+model: gpt-4
+temperature: 0
+---
+
 # CRUD generator for FastAPI
 
 
