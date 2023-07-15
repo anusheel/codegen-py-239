@@ -10,3 +10,7 @@ Create a high quality codebase with FastAPI for all the CRUD API endpoints with 
 Assume that the project directory has already been created and that you are inside that directory when running any commands. 
 Dont include bash command to run the process.
 ```
+
+```stub
+Generate tests
+```
