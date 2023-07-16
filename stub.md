@@ -1,6 +1,6 @@
 ---
 system_prompt: foobar
-model: gpt-4
+model1: gpt-4
 temperature: 0
 ---
 
